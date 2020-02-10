@@ -1,1 +1,14 @@
-
+{
+  "posts": [
+    { "good_comment_number": 1,
+     "num_comments_malos" : 114,
+     "number_franquicias_cercanas" : 2,
+     "personal_number" : 3,
+     "city" : 8,
+     "franchise" : 2,
+     "previous_message_improvement" : 1},
+  ],
+  "profile": {
+    "name": "mrjeff_assignment_server"
+  }
+}
